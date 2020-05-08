@@ -1,0 +1,13 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+
+:root {
+  --color-primary: #d5dfd9;
+  --color-secondary: #535e6e;
+  --color-accent: #b99a7b;
+  --color-black: #33383e;
+  --color-white: #fff;
+}
